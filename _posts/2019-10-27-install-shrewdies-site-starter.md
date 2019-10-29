@@ -25,3 +25,6 @@ Similarly, edit your home page in ```index.md``` to match how you want to introd
 Now you should have a working website. But you must delete or replace my About Shrewdies pages before you publish your website to the public. So delete the contents of ```/about/``` now. Or see my next post to learn how to edit your own About pages.
 
 While you're waiting for the next step, it's a good idea to subscribe to my update service. That way, you'll be the first to know when I publish new information on this website. Note that I explain how you include your own notification and feedback services as part of amending the About Shrewdies pages.
+
+#### Feedback for Install Shrewdies Site Starter
+- Oct 29 2019 - Next/Prev navigation missing from news blog entries. See premium page map for solution regarding edits to posts layout and css files.
