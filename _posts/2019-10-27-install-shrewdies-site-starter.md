@@ -17,7 +17,7 @@ So all you need to do is edit ```_config.yml```. Then you can edit the contents 
 I will assume you are going to edit the contents. So you should follow the notes that I've presented in these example blog posts.
 
 ##  Configure Shrewdies Site Starter
-Your first step is to change my details in ```_config.yml``` to your own. As I believe this is straightforward, I do not include detailed notes here. However, if you need me to add more explanations, please ask using my [color name=orange]Feedback Form[/color] below.
+Your first step is to change my details in ```_config.yml``` to your own. As I believe this is straightforward, I do not include detailed notes here. However, if you need me to add more explanations, please ask using my <span style="color:orange">Feedback Form</span> below.
 
 Similarly, edit your home page in ```index.md``` to match how you want to introduce your website.
 
