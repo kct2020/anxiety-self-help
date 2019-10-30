@@ -1,6 +1,7 @@
 ---
 path: /about
 title: About Shrewdies Website Starter
+featuredimage: /about/about.jpg
 ---
 This section describes Shrewdies Website Starter and how you can make the most of it. So it explains how Shrewdies Website Starter works. Including "legal" pages such as policies, terms, and other aspects of using Shrewdies Website Starter 
 ### About Shrewdies Website Starter
@@ -9,5 +10,7 @@ This section describes Shrewdies Website Starter and how you can make the most o
 1. Privacy Policy
 1. T&Cs
 1. Notifications
+
+![About shrewdies.netlify.com](/about/purpose.jpg)
 
 Leave About Shrewdies Website Starter to browse the [Home Page](/)
