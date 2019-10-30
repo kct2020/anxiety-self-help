@@ -11,6 +11,6 @@ This section describes Shrewdies Website Starter and how you can make the most o
 1. T&Cs
 1. Notifications
 
-![About shrewdies.netlify.com](/about/purpose.jpg)
+![About shrewdies.netlify.com](/about/about.jpg)
 
 Leave About Shrewdies Website Starter to browse the [Home Page](/)
