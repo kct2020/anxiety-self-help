@@ -1,7 +1,7 @@
 ---
 path: /about
 title: About Shrewdies Site Starter
-feature_image: /about/about.jpg
+feature_image: https://images.unsplash.com/photo-1497005367839-6e852de72767
 feature_text: |
   ## About Shrewdies Site Starter
   A collection of pages to describe how Shrewdies Site Starter Kit works. So you can use it to your best advantage
