@@ -1,7 +1,11 @@
 ---
 path: /about
 title: About Shrewdies Site Starter
-featuredimage: /about/about.jpg
+feature_image: /about/about.jpg
+feature_text: |
+  ## About Shrewdies Site Starter
+  A collection of pages to describe how Shrewdies Site Starter Kit works. So you can use it to your best advantage
+excerpt: Shrewdies Site Starter helps you deploy consistent Jekyll websites quickly. So learn about how it works and why you need it to help you launch fast free websites.
 ---
 This section describes Shrewdies.netlify.com and how you can make the most of it. So it explains how Shrewdies Site Starter works. Including "legal" pages such as policies, terms, and other aspects of using Shrewdies Site Starter 
 ### About Shrewdies Site Starter
