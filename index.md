@@ -1,5 +1,5 @@
 ---
-title: Shrewdies Site Starter
+title: Shrewdies Site Starter Home Page
 feature_text: |
   ## Shrewdies Site Starter
   A Jekyll boilerplate theme designed to be a starting point for all Keith Taylor's Jekyll websites
