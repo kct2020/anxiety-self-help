@@ -30,3 +30,10 @@ While you're waiting for the next step, it's a good idea to subscribe to my upda
 - Oct 29 2019 - *Resolved* Next/Prev navigation missing from news blog entries. See premium page map for solution regarding edits to posts layout and css files.
 - Oct 29 2019 - *Issue* Annoying but not serious affect on performance from font files.
 - Oct 30 2019 - **ToDo** Configure Google Analytics (GA). Probably need to change Netlify site name before registering with GA. 
+- Nov 08 2019 - **ToDo** Configure favicons. NB - there seems to be lack of agreement about which icons are necessary. Especially since the top result for ```what favicon sizes do i need``` search omits 512x512 needed for manifest and omits 16x16 despite lots of explanation about it. However, that's a much-revised post so more research is needed if this is important. For now, I've gone with 4 sizes: ```# 8. Site favicons & manifest icons
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  16: '/assets/logos/logo@16px.png'
+  32: '/assets/logos/logo@32px.png'
+  180: '/assets/logos/logo@180px.png'
+  512: '/assets/logos/logo@512px.png'
+```
