@@ -37,3 +37,4 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   180: '/assets/logos/logo@180px.png'
   512: '/assets/logos/logo@512px.png'
 ```
+- Nov 08 2019 - **ToDo** Configure Bing Webmaster & Google Search Console. However, probably not wise to do this until all starter content has been edited to avoid duplicate content penalties once search engines are crawling the sitemap.
