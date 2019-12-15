@@ -67,7 +67,7 @@ collections:
     title: Welcome to my anxiety blog # Needed for Siteleaf
     output: true
     description: "Questions, experiences, and opinions about anxiety" # The post list page content
-    feature_text: "<h2>Anxiety Self Help Blog</h2>
+    feature_text: "<h2>Anxiety Self Help Blog</h2>"
     feature_image: "https://picsum.photos/id/1042/2560/600.webp"
 
 # 6. Jekyll collections settings
