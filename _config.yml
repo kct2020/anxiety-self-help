@@ -69,7 +69,7 @@ collections:
     description: "Questions, experiences, and opinions about anxiety" # The post list page content
     feature_text: |
       Welcome to my anxiety blog
-    feature_image: "https://picsum.photos/id/10/2560/600.webp"
+    feature_image: "https://picsum.photos/id/1042/2560/600.webp"
 
 # 6. Jekyll collections settings
 defaults:
@@ -83,11 +83,11 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Anxiety Self Help" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/sss-logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/ash-logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Keith Taylor's anxiety project. A personal journal of ideas and tools to better deal with adjustment disorders and related anxious conditions." # Site description and default description, also used in jekyll-seo-tag
 url: "https://anxiety.netlify.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/kct202/anxiety-self-help"
+repo: "https://github.com/kct2020/anxiety-self-help"
 email: "shrewdies@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: 'UA-9768410-31' 
