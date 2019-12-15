@@ -4,7 +4,10 @@ styles: true
 ---
 
 # @import "alembic";
-.typeset{color:white;}
+.typeset p {
+    color: white;
+}
+
 .PageNavigation {
   font-size: 14px;
   display: block;
