@@ -68,7 +68,7 @@ collections:
     output: true
     description: "Questions, experiences, and opinions about anxiety" # The post list page content
     feature_text: |
-      Welcome to my anxiety blog
+      #Welcome to my anxiety blog
     feature_image: "https://picsum.photos/id/1042/2560/600.webp"
 
 # 6. Jekyll collections settings
@@ -108,7 +108,7 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: News
+- title: Blog
   url: /blog/
 - title: Search
   url: /search/
