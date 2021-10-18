@@ -4,6 +4,10 @@ styles: true
 ---
 
 @import "alembic";
+.feature p,h2 {
+    color: white;
+}
+
 .PageNavigation {
   font-size: 14px;
   display: block;
